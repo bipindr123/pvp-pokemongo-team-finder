@@ -1,4 +1,13 @@
-azumarill 0 2 1
-vigoroth 0 3 1
-skarmory 0 3 2
-umbreon 0 2 1
+giratina 26.5 10 13 15
+heracross 30.5 0 14 12
+zangoose 40.0 14 15 14
+gengar 31.0 15 14 14
+snorlax 28.0 9 13 15
+machamp 30.0 7 9 14
+togekiss 27.0 6 15 14
+scizor 31.5 6 10 12
+sceptile 37.0 7 13 9
+muk 34.5 14 12 13
+gliscor 36.0 13 15 13
+mewtwo 28.0 12 10 14
+cresselia 32.5 11 15 14

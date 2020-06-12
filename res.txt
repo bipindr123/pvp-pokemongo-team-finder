@@ -1,0 +1,728 @@
+('giratina', 'heracross', 'zangoose')
+676
+('giratina', 'heracross', 'gengar')
+652
+('giratina', 'heracross', 'snorlax')
+690
+('giratina', 'heracross', 'machamp')
+699
+('giratina', 'heracross', 'togekiss')
+651
+('giratina', 'heracross', 'scizor')
+628
+('giratina', 'heracross', 'sceptile')
+691
+('giratina', 'heracross', 'muk (alolan)')
+614
+('giratina', 'heracross', 'gliscor')
+707
+('giratina', 'heracross', 'mewtwo (Armored)')
+640
+('giratina', 'heracross', 'cresselia')
+633
+('giratina', 'heracross', 'shiftry')
+682
+('giratina', 'zangoose', 'gengar')
+685
+('giratina', 'zangoose', 'snorlax')
+721
+('giratina', 'zangoose', 'machamp')
+657
+('giratina', 'zangoose', 'togekiss')
+684
+('giratina', 'zangoose', 'scizor')
+643
+('giratina', 'zangoose', 'sceptile')
+693
+('giratina', 'zangoose', 'muk (alolan)')
+666
+('giratina', 'zangoose', 'gliscor')
+700
+('giratina', 'zangoose', 'mewtwo (Armored)')
+662
+('giratina', 'zangoose', 'cresselia')
+647
+('giratina', 'zangoose', 'shiftry')
+718
+('giratina', 'gengar', 'snorlax')
+744
+('giratina', 'gengar', 'machamp')
+635
+('giratina', 'gengar', 'togekiss')
+729
+('giratina', 'gengar', 'scizor')
+712
+('giratina', 'gengar', 'sceptile')
+721
+('giratina', 'gengar', 'muk (alolan)')
+731
+('giratina', 'gengar', 'gliscor')
+732
+('giratina', 'gengar', 'mewtwo (Armored)')
+749
+('giratina', 'gengar', 'cresselia')
+725
+('giratina', 'gengar', 'shiftry')
+736
+('giratina', 'snorlax', 'machamp')
+667
+('giratina', 'snorlax', 'togekiss')
+721
+('giratina', 'snorlax', 'scizor')
+681
+('giratina', 'snorlax', 'sceptile')
+711
+('giratina', 'snorlax', 'muk (alolan)')
+708
+('giratina', 'snorlax', 'gliscor')
+733
+('giratina', 'snorlax', 'mewtwo (Armored)')
+704
+('giratina', 'snorlax', 'cresselia')
+698
+('giratina', 'snorlax', 'shiftry')
+739
+('giratina', 'machamp', 'togekiss')
+634
+('giratina', 'machamp', 'scizor')
+604
+('giratina', 'machamp', 'sceptile')
+686
+('giratina', 'machamp', 'muk (alolan)')
+598
+('giratina', 'machamp', 'gliscor')
+682
+('giratina', 'machamp', 'mewtwo (Armored)')
+635
+('giratina', 'machamp', 'cresselia')
+626
+('giratina', 'machamp', 'shiftry')
+672
+('giratina', 'togekiss', 'scizor')
+649
+('giratina', 'togekiss', 'sceptile')
+710
+('giratina', 'togekiss', 'muk (alolan)')
+719
+('giratina', 'togekiss', 'gliscor')
+752
+('giratina', 'togekiss', 'mewtwo (Armored)')
+679
+('giratina', 'togekiss', 'cresselia')
+664
+('giratina', 'togekiss', 'shiftry')
+739
+('giratina', 'scizor', 'sceptile')
+638
+('giratina', 'scizor', 'muk (alolan)')
+655
+('giratina', 'scizor', 'gliscor')
+656
+('giratina', 'scizor', 'mewtwo (Armored)')
+684
+('giratina', 'scizor', 'cresselia')
+666
+('giratina', 'scizor', 'shiftry')
+648
+('giratina', 'sceptile', 'muk (alolan)')
+663
+('giratina', 'sceptile', 'gliscor')
+736
+('giratina', 'sceptile', 'mewtwo (Armored)')
+702
+('giratina', 'sceptile', 'cresselia')
+681
+('giratina', 'sceptile', 'shiftry')
+748
+('giratina', 'muk (alolan)', 'gliscor')
+705
+('giratina', 'muk (alolan)', 'mewtwo (Armored)')
+678
+('giratina', 'muk (alolan)', 'cresselia')
+669
+('giratina', 'muk (alolan)', 'shiftry')
+715
+('giratina', 'gliscor', 'mewtwo (Armored)')
+693
+('giratina', 'gliscor', 'cresselia')
+674
+('giratina', 'gliscor', 'shiftry')
+753
+('giratina', 'mewtwo (Armored)', 'cresselia')
+724
+('giratina', 'mewtwo (Armored)', 'shiftry')
+701
+('giratina', 'cresselia', 'shiftry')
+684
+('heracross', 'zangoose', 'gengar')
+708
+('heracross', 'zangoose', 'snorlax')
+768
+('heracross', 'zangoose', 'machamp')
+771
+('heracross', 'zangoose', 'togekiss')
+729
+('heracross', 'zangoose', 'scizor')
+702
+('heracross', 'zangoose', 'sceptile')
+776
+('heracross', 'zangoose', 'muk (alolan)')
+686
+('heracross', 'zangoose', 'gliscor')
+760
+('heracross', 'zangoose', 'mewtwo (Armored)')
+657
+('heracross', 'zangoose', 'cresselia')
+642
+('heracross', 'zangoose', 'shiftry')
+786
+('heracross', 'gengar', 'snorlax')
+752
+('heracross', 'gengar', 'machamp')
+760
+('heracross', 'gengar', 'togekiss')
+735
+('heracross', 'gengar', 'scizor')
+730
+('heracross', 'gengar', 'sceptile')
+755
+('heracross', 'gengar', 'muk (alolan)')
+648
+('heracross', 'gengar', 'gliscor')
+728
+('heracross', 'gengar', 'mewtwo (Armored)')
+679
+('heracross', 'gengar', 'cresselia')
+671
+('heracross', 'gengar', 'shiftry')
+733
+('heracross', 'snorlax', 'machamp')
+776
+('heracross', 'snorlax', 'togekiss')
+749
+('heracross', 'snorlax', 'scizor')
+740
+('heracross', 'snorlax', 'sceptile')
+779
+('heracross', 'snorlax', 'muk (alolan)')
+696
+('heracross', 'snorlax', 'gliscor')
+772
+('heracross', 'snorlax', 'mewtwo (Armored)')
+673
+('heracross', 'snorlax', 'cresselia')
+659
+('heracross', 'snorlax', 'shiftry')
+783
+('heracross', 'machamp', 'togekiss')
+758
+('heracross', 'machamp', 'scizor')
+693
+('heracross', 'machamp', 'sceptile')
+793
+('heracross', 'machamp', 'muk (alolan)')
+673
+('heracross', 'machamp', 'gliscor')
+785
+('heracross', 'machamp', 'mewtwo (Armored)')
+726
+('heracross', 'machamp', 'cresselia')
+700
+('heracross', 'machamp', 'shiftry')
+789
+('heracross', 'togekiss', 'scizor')
+714
+('heracross', 'togekiss', 'sceptile')
+762
+('heracross', 'togekiss', 'muk (alolan)')
+660
+('heracross', 'togekiss', 'gliscor')
+723
+('heracross', 'togekiss', 'mewtwo (Armored)')
+665
+('heracross', 'togekiss', 'cresselia')
+641
+('heracross', 'togekiss', 'shiftry')
+751
+('heracross', 'scizor', 'sceptile')
+736
+('heracross', 'scizor', 'muk (alolan)')
+664
+('heracross', 'scizor', 'gliscor')
+704
+('heracross', 'scizor', 'mewtwo (Armored)')
+637
+('heracross', 'scizor', 'cresselia')
+639
+('heracross', 'scizor', 'shiftry')
+733
+('heracross', 'sceptile', 'muk (alolan)')
+684
+('heracross', 'sceptile', 'gliscor')
+788
+('heracross', 'sceptile', 'mewtwo (Armored)')
+711
+('heracross', 'sceptile', 'cresselia')
+694
+('heracross', 'sceptile', 'shiftry')
+795
+('heracross', 'muk (alolan)', 'gliscor')
+661
+('heracross', 'muk (alolan)', 'mewtwo (Armored)')
+603
+('heracross', 'muk (alolan)', 'cresselia')
+603
+('heracross', 'muk (alolan)', 'shiftry')
+699
+('heracross', 'gliscor', 'mewtwo (Armored)')
+690
+('heracross', 'gliscor', 'cresselia')
+687
+('heracross', 'gliscor', 'shiftry')
+780
+('heracross', 'mewtwo (Armored)', 'cresselia')
+662
+('heracross', 'mewtwo (Armored)', 'shiftry')
+682
+('heracross', 'cresselia', 'shiftry')
+673
+('zangoose', 'gengar', 'snorlax')
+758
+('zangoose', 'gengar', 'machamp')
+683
+('zangoose', 'gengar', 'togekiss')
+741
+('zangoose', 'gengar', 'scizor')
+729
+('zangoose', 'gengar', 'sceptile')
+740
+('zangoose', 'gengar', 'muk (alolan)')
+748
+('zangoose', 'gengar', 'gliscor')
+735
+('zangoose', 'gengar', 'mewtwo (Armored)')
+693
+('zangoose', 'gengar', 'cresselia')
+676
+('zangoose', 'gengar', 'shiftry')
+754
+('zangoose', 'snorlax', 'machamp')
+763
+('zangoose', 'snorlax', 'togekiss')
+762
+('zangoose', 'snorlax', 'scizor')
+777
+('zangoose', 'snorlax', 'sceptile')
+795
+('zangoose', 'snorlax', 'muk (alolan)')
+780
+('zangoose', 'snorlax', 'gliscor')
+772
+('zangoose', 'snorlax', 'mewtwo (Armored)')
+720
+('zangoose', 'snorlax', 'cresselia')
+689
+('zangoose', 'snorlax', 'shiftry')
+807
+('zangoose', 'machamp', 'togekiss')
+726
+('zangoose', 'machamp', 'scizor')
+663
+('zangoose', 'machamp', 'sceptile')
+771
+('zangoose', 'machamp', 'muk (alolan)')
+676
+('zangoose', 'machamp', 'gliscor')
+728
+('zangoose', 'machamp', 'mewtwo (Armored)')
+657
+('zangoose', 'machamp', 'cresselia')
+635
+('zangoose', 'machamp', 'shiftry')
+778
+('zangoose', 'togekiss', 'scizor')
+708
+('zangoose', 'togekiss', 'sceptile')
+759
+('zangoose', 'togekiss', 'muk (alolan)')
+728
+('zangoose', 'togekiss', 'gliscor')
+733
+('zangoose', 'togekiss', 'mewtwo (Armored)')
+683
+('zangoose', 'togekiss', 'cresselia')
+666
+('zangoose', 'togekiss', 'shiftry')
+770
+('zangoose', 'scizor', 'sceptile')
+755
+('zangoose', 'scizor', 'muk (alolan)')
+764
+('zangoose', 'scizor', 'gliscor')
+701
+('zangoose', 'scizor', 'mewtwo (Armored)')
+668
+('zangoose', 'scizor', 'cresselia')
+642
+('zangoose', 'scizor', 'shiftry')
+773
+('zangoose', 'sceptile', 'muk (alolan)')
+753
+('zangoose', 'sceptile', 'gliscor')
+773
+('zangoose', 'sceptile', 'mewtwo (Armored)')
+726
+('zangoose', 'sceptile', 'cresselia')
+687
+('zangoose', 'sceptile', 'shiftry')
+806
+('zangoose', 'muk (alolan)', 'gliscor')
+719
+('zangoose', 'muk (alolan)', 'mewtwo (Armored)')
+676
+('zangoose', 'muk (alolan)', 'cresselia')
+660
+('zangoose', 'muk (alolan)', 'shiftry')
+774
+('zangoose', 'gliscor', 'mewtwo (Armored)')
+667
+('zangoose', 'gliscor', 'cresselia')
+651
+('zangoose', 'gliscor', 'shiftry')
+776
+('zangoose', 'mewtwo (Armored)', 'cresselia')
+680
+('zangoose', 'mewtwo (Armored)', 'shiftry')
+741
+('zangoose', 'cresselia', 'shiftry')
+707
+('gengar', 'snorlax', 'machamp')
+717
+('gengar', 'snorlax', 'togekiss')
+773
+('gengar', 'snorlax', 'scizor')
+770
+('gengar', 'snorlax', 'sceptile')
+770
+('gengar', 'snorlax', 'muk (alolan)')
+769
+('gengar', 'snorlax', 'gliscor')
+764
+('gengar', 'snorlax', 'mewtwo (Armored)')
+769
+('gengar', 'snorlax', 'cresselia')
+765
+('gengar', 'snorlax', 'shiftry')
+778
+('gengar', 'machamp', 'togekiss')
+692
+('gengar', 'machamp', 'scizor')
+653
+('gengar', 'machamp', 'sceptile')
+722
+('gengar', 'machamp', 'muk (alolan)')
+629
+('gengar', 'machamp', 'gliscor')
+679
+('gengar', 'machamp', 'mewtwo (Armored)')
+662
+('gengar', 'machamp', 'cresselia')
+652
+('gengar', 'machamp', 'shiftry')
+697
+('gengar', 'togekiss', 'scizor')
+765
+('gengar', 'togekiss', 'sceptile')
+770
+('gengar', 'togekiss', 'muk (alolan)')
+764
+('gengar', 'togekiss', 'gliscor')
+760
+('gengar', 'togekiss', 'mewtwo (Armored)')
+756
+('gengar', 'togekiss', 'cresselia')
+730
+('gengar', 'togekiss', 'shiftry')
+776
+('gengar', 'scizor', 'sceptile')
+725
+('gengar', 'scizor', 'muk (alolan)')
+759
+('gengar', 'scizor', 'gliscor')
+725
+('gengar', 'scizor', 'mewtwo (Armored)')
+745
+('gengar', 'scizor', 'cresselia')
+740
+('gengar', 'scizor', 'shiftry')
+742
+('gengar', 'sceptile', 'muk (alolan)')
+702
+('gengar', 'sceptile', 'gliscor')
+766
+('gengar', 'sceptile', 'mewtwo (Armored)')
+769
+('gengar', 'sceptile', 'cresselia')
+752
+('gengar', 'sceptile', 'shiftry')
+783
+('gengar', 'muk (alolan)', 'gliscor')
+743
+('gengar', 'muk (alolan)', 'mewtwo (Armored)')
+729
+('gengar', 'muk (alolan)', 'cresselia')
+723
+('gengar', 'muk (alolan)', 'shiftry')
+756
+('gengar', 'gliscor', 'mewtwo (Armored)')
+713
+('gengar', 'gliscor', 'cresselia')
+695
+('gengar', 'gliscor', 'shiftry')
+763
+('gengar', 'mewtwo (Armored)', 'cresselia')
+776
+('gengar', 'mewtwo (Armored)', 'shiftry')
+765
+('gengar', 'cresselia', 'shiftry')
+757
+('snorlax', 'machamp', 'togekiss')
+734
+('snorlax', 'machamp', 'scizor')
+658
+('snorlax', 'machamp', 'sceptile')
+773
+('snorlax', 'machamp', 'muk (alolan)')
+673
+('snorlax', 'machamp', 'gliscor')
+746
+('snorlax', 'machamp', 'mewtwo (Armored)')
+679
+('snorlax', 'machamp', 'cresselia')
+646
+('snorlax', 'machamp', 'shiftry')
+774
+('snorlax', 'togekiss', 'scizor')
+760
+('snorlax', 'togekiss', 'sceptile')
+774
+('snorlax', 'togekiss', 'muk (alolan)')
+757
+('snorlax', 'togekiss', 'gliscor')
+764
+('snorlax', 'togekiss', 'mewtwo (Armored)')
+746
+('snorlax', 'togekiss', 'cresselia')
+725
+('snorlax', 'togekiss', 'shiftry')
+782
+('snorlax', 'scizor', 'sceptile')
+776
+('snorlax', 'scizor', 'muk (alolan)')
+780
+('snorlax', 'scizor', 'gliscor')
+734
+('snorlax', 'scizor', 'mewtwo (Armored)')
+727
+('snorlax', 'scizor', 'cresselia')
+711
+('snorlax', 'scizor', 'shiftry')
+787
+('snorlax', 'sceptile', 'muk (alolan)')
+768
+('snorlax', 'sceptile', 'gliscor')
+780
+('snorlax', 'sceptile', 'mewtwo (Armored)')
+763
+('snorlax', 'sceptile', 'cresselia')
+747
+('snorlax', 'sceptile', 'shiftry')
+806
+('snorlax', 'muk (alolan)', 'gliscor')
+746
+('snorlax', 'muk (alolan)', 'mewtwo (Armored)')
+734
+('snorlax', 'muk (alolan)', 'cresselia')
+729
+('snorlax', 'muk (alolan)', 'shiftry')
+787
+('snorlax', 'gliscor', 'mewtwo (Armored)')
+699
+('snorlax', 'gliscor', 'cresselia')
+690
+('snorlax', 'gliscor', 'shiftry')
+781
+('snorlax', 'mewtwo (Armored)', 'cresselia')
+761
+('snorlax', 'mewtwo (Armored)', 'shiftry')
+769
+('snorlax', 'cresselia', 'shiftry')
+758
+('machamp', 'togekiss', 'scizor')
+638
+('machamp', 'togekiss', 'sceptile')
+746
+('machamp', 'togekiss', 'muk (alolan)')
+643
+('machamp', 'togekiss', 'gliscor')
+694
+('machamp', 'togekiss', 'mewtwo (Armored)')
+651
+('machamp', 'togekiss', 'cresselia')
+630
+('machamp', 'togekiss', 'shiftry')
+743
+('machamp', 'scizor', 'sceptile')
+674
+('machamp', 'scizor', 'muk (alolan)')
+622
+('machamp', 'scizor', 'gliscor')
+649
+('machamp', 'scizor', 'mewtwo (Armored)')
+623
+('machamp', 'scizor', 'cresselia')
+612
+('machamp', 'scizor', 'shiftry')
+664
+('machamp', 'sceptile', 'muk (alolan)')
+669
+('machamp', 'sceptile', 'gliscor')
+773
+('machamp', 'sceptile', 'mewtwo (Armored)')
+706
+('machamp', 'sceptile', 'cresselia')
+686
+('machamp', 'sceptile', 'shiftry')
+785
+('machamp', 'muk (alolan)', 'gliscor')
+644
+('machamp', 'muk (alolan)', 'mewtwo (Armored)')
+594
+('machamp', 'muk (alolan)', 'cresselia')
+583
+('machamp', 'muk (alolan)', 'shiftry')
+681
+('machamp', 'gliscor', 'mewtwo (Armored)')
+678
+('machamp', 'gliscor', 'cresselia')
+664
+('machamp', 'gliscor', 'shiftry')
+760
+('machamp', 'mewtwo (Armored)', 'cresselia')
+664
+('machamp', 'mewtwo (Armored)', 'shiftry')
+682
+('machamp', 'cresselia', 'shiftry')
+655
+('togekiss', 'scizor', 'sceptile')
+744
+('togekiss', 'scizor', 'muk (alolan)')
+753
+('togekiss', 'scizor', 'gliscor')
+706
+('togekiss', 'scizor', 'mewtwo (Armored)')
+716
+('togekiss', 'scizor', 'cresselia')
+688
+('togekiss', 'scizor', 'shiftry')
+751
+('togekiss', 'sceptile', 'muk (alolan)')
+746
+('togekiss', 'sceptile', 'gliscor')
+759
+('togekiss', 'sceptile', 'mewtwo (Armored)')
+764
+('togekiss', 'sceptile', 'cresselia')
+731
+('togekiss', 'sceptile', 'shiftry')
+794
+('togekiss', 'muk (alolan)', 'gliscor')
+746
+('togekiss', 'muk (alolan)', 'mewtwo (Armored)')
+728
+('togekiss', 'muk (alolan)', 'cresselia')
+706
+('togekiss', 'muk (alolan)', 'shiftry')
+763
+('togekiss', 'gliscor', 'mewtwo (Armored)')
+691
+('togekiss', 'gliscor', 'cresselia')
+659
+('togekiss', 'gliscor', 'shiftry')
+777
+('togekiss', 'mewtwo (Armored)', 'cresselia')
+744
+('togekiss', 'mewtwo (Armored)', 'shiftry')
+758
+('togekiss', 'cresselia', 'shiftry')
+729
+('scizor', 'sceptile', 'muk (alolan)')
+750
+('scizor', 'sceptile', 'gliscor')
+699
+('scizor', 'sceptile', 'mewtwo (Armored)')
+721
+('scizor', 'sceptile', 'cresselia')
+699
+('scizor', 'sceptile', 'shiftry')
+785
+('scizor', 'muk (alolan)', 'gliscor')
+702
+('scizor', 'muk (alolan)', 'mewtwo (Armored)')
+716
+('scizor', 'muk (alolan)', 'cresselia')
+695
+('scizor', 'muk (alolan)', 'shiftry')
+774
+('scizor', 'gliscor', 'mewtwo (Armored)')
+665
+('scizor', 'gliscor', 'cresselia')
+656
+('scizor', 'gliscor', 'shiftry')
+701
+('scizor', 'mewtwo (Armored)', 'cresselia')
+737
+('scizor', 'mewtwo (Armored)', 'shiftry')
+721
+('scizor', 'cresselia', 'shiftry')
+707
+('sceptile', 'muk (alolan)', 'gliscor')
+683
+('sceptile', 'muk (alolan)', 'mewtwo (Armored)')
+710
+('sceptile', 'muk (alolan)', 'cresselia')
+689
+('sceptile', 'muk (alolan)', 'shiftry')
+784
+('sceptile', 'gliscor', 'mewtwo (Armored)')
+728
+('sceptile', 'gliscor', 'cresselia')
+697
+('sceptile', 'gliscor', 'shiftry')
+796
+('sceptile', 'mewtwo (Armored)', 'cresselia')
+764
+('sceptile', 'mewtwo (Armored)', 'shiftry')
+775
+('sceptile', 'cresselia', 'shiftry')
+769
+('muk (alolan)', 'gliscor', 'mewtwo (Armored)')
+658
+('muk (alolan)', 'gliscor', 'cresselia')
+643
+('muk (alolan)', 'gliscor', 'shiftry')
+725
+('muk (alolan)', 'mewtwo (Armored)', 'cresselia')
+731
+('muk (alolan)', 'mewtwo (Armored)', 'shiftry')
+737
+('muk (alolan)', 'cresselia', 'shiftry')
+724
+('gliscor', 'mewtwo (Armored)', 'cresselia')
+687
+('gliscor', 'mewtwo (Armored)', 'shiftry')
+706
+('gliscor', 'cresselia', 'shiftry')
+683
+('mewtwo (Armored)', 'cresselia', 'shiftry')
+759

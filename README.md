@@ -1,6 +1,14 @@
 # Pvpoke PVP team bulk analyser
 Selenium for python automation project for finding best team to use for pokemon go pvp among the pokemon you have
 
+##Features
+Works for all 3 types, great battle league, ultra league and master league
+Accoutns for alolan pokemon
+Accoutns for pokemong level, iv x/y/z
+Use the formula to calculate approxmitate time it takes
+
+((p!/((p-3)!*3!)) * 0.083 ) minutes
+
 ## Getting Started
 
 ### Prerequisites
@@ -28,4 +36,12 @@ Now you can run
 ```
 Python poke.py
 ```
-You should no have the rankings of the top teams you can use.
+
+you will have the results in res.txt
+
+## Compute result
+To show the rankings of the top teams you can use.
+```
+Python compute_res.py
+```
+

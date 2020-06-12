@@ -1,0 +1,11 @@
+skarmory 28.5 0 6 8
+stunfisk 25.0 11 14 14
+haunter 27 14 14 14
+registeel 21.5 15 12 15
+whiscash 27.5 13 2 1
+umbreon 24.5 14 15 14
+hypno 25.5 11 15 15
+mantine 26 10 15 5
+altaria 26 15 14 12
+azumarill 34.5 13 14 12
+probopass 25.5 7 13 14

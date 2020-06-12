@@ -1,0 +1,214 @@
+('skarmory', 'stunfisk', 'haunter')
+702
+('skarmory', 'stunfisk', 'registeel')
+704
+('skarmory', 'stunfisk', 'whiscash')
+740
+('skarmory', 'stunfisk', 'umbreon')
+699
+('skarmory', 'stunfisk', 'hypno')
+685
+('skarmory', 'stunfisk', 'mantine')
+716
+('skarmory', 'stunfisk', 'altaria')
+675
+('skarmory', 'stunfisk', 'azumarill')
+673
+('skarmory', 'stunfisk', 'probopass')
+745
+('skarmory', 'haunter', 'registeel')
+703
+('skarmory', 'haunter', 'whiscash')
+705
+('skarmory', 'haunter', 'umbreon')
+688
+('skarmory', 'haunter', 'hypno')
+761
+('skarmory', 'haunter', 'mantine')
+772
+('skarmory', 'haunter', 'altaria')
+733
+('skarmory', 'haunter', 'azumarill')
+686
+('skarmory', 'haunter', 'probopass')
+754
+('skarmory', 'registeel', 'whiscash')
+713
+('skarmory', 'registeel', 'umbreon')
+724
+('skarmory', 'registeel', 'hypno')
+710
+('skarmory', 'registeel', 'mantine')
+741
+('skarmory', 'registeel', 'altaria')
+655
+('skarmory', 'registeel', 'azumarill')
+692
+('skarmory', 'registeel', 'probopass')
+774
+('skarmory', 'whiscash', 'umbreon')
+712
+('skarmory', 'whiscash', 'hypno')
+688
+('skarmory', 'whiscash', 'mantine')
+755
+('skarmory', 'whiscash', 'altaria')
+677
+('skarmory', 'whiscash', 'azumarill')
+699
+('skarmory', 'whiscash', 'probopass')
+737
+('skarmory', 'umbreon', 'hypno')
+701
+('skarmory', 'umbreon', 'mantine')
+752
+('skarmory', 'umbreon', 'altaria')
+707
+('skarmory', 'umbreon', 'azumarill')
+700
+('skarmory', 'umbreon', 'probopass')
+764
+('skarmory', 'hypno', 'mantine')
+786
+('skarmory', 'hypno', 'altaria')
+741
+('skarmory', 'hypno', 'azumarill')
+727
+('skarmory', 'hypno', 'probopass')
+769
+('skarmory', 'mantine', 'altaria')
+784
+('skarmory', 'mantine', 'azumarill')
+801
+('skarmory', 'mantine', 'probopass')
+793
+('skarmory', 'altaria', 'azumarill')
+728
+('skarmory', 'altaria', 'probopass')
+730
+('skarmory', 'azumarill', 'probopass')
+760
+('stunfisk', 'haunter', 'registeel')
+750
+('stunfisk', 'haunter', 'whiscash')
+774
+('stunfisk', 'haunter', 'umbreon')
+696
+('stunfisk', 'haunter', 'hypno')
+744
+('stunfisk', 'haunter', 'mantine')
+736
+('stunfisk', 'haunter', 'altaria')
+680
+('stunfisk', 'haunter', 'azumarill')
+722
+('stunfisk', 'haunter', 'probopass')
+783
+('stunfisk', 'registeel', 'whiscash')
+774
+('stunfisk', 'registeel', 'umbreon')
+752
+('stunfisk', 'registeel', 'hypno')
+678
+('stunfisk', 'registeel', 'mantine')
+686
+('stunfisk', 'registeel', 'altaria')
+640
+('stunfisk', 'registeel', 'azumarill')
+692
+('stunfisk', 'registeel', 'probopass')
+799
+('stunfisk', 'whiscash', 'umbreon')
+791
+('stunfisk', 'whiscash', 'hypno')
+754
+('stunfisk', 'whiscash', 'mantine')
+787
+('stunfisk', 'whiscash', 'altaria')
+731
+('stunfisk', 'whiscash', 'azumarill')
+826
+('stunfisk', 'whiscash', 'probopass')
+811
+('stunfisk', 'umbreon', 'hypno')
+702
+('stunfisk', 'umbreon', 'mantine')
+736
+('stunfisk', 'umbreon', 'altaria')
+700
+('stunfisk', 'umbreon', 'azumarill')
+740
+('stunfisk', 'umbreon', 'probopass')
+790
+('stunfisk', 'hypno', 'mantine')
+705
+('stunfisk', 'hypno', 'altaria')
+688
+('stunfisk', 'hypno', 'azumarill')
+704
+('stunfisk', 'hypno', 'probopass')
+736
+('stunfisk', 'mantine', 'altaria')
+711
+('stunfisk', 'mantine', 'azumarill')
+760
+('stunfisk', 'mantine', 'probopass')
+764
+('stunfisk', 'altaria', 'azumarill')
+669
+('stunfisk', 'altaria', 'probopass')
+687
+('stunfisk', 'azumarill', 'probopass')
+792
+('haunter', 'registeel', 'whiscash')
+726
+('haunter', 'registeel', 'umbreon')
+661
+('haunter', 'registeel', 'hypno')
+706
+('haunter', 'registeel', 'mantine')
+686
+('haunter', 'registeel', 'altaria')
+655
+('haunter', 'registeel', 'azumarill')
+662
+('haunter', 'registeel', 'probopass')
+782
+('haunter', 'whiscash', 'umbreon')
+706
+('haunter', 'whiscash', 'hypno')
+741
+('haunter', 'whiscash', 'mantine')
+744
+('haunter', 'whiscash', 'altaria')
+683
+('haunter', 'whiscash', 'azumarill')
+747
+('haunter', 'whiscash', 'probopass')
+772
+('haunter', 'umbreon', 'hypno')
+715
+('haunter', 'umbreon', 'mantine')
+696
+('haunter', 'umbreon', 'altaria')
+695
+('haunter', 'umbreon', 'azumarill')
+653
+('haunter', 'umbreon', 'probopass')
+714
+('haunter', 'hypno', 'mantine')
+770
+('haunter', 'hypno', 'altaria')
+717
+('haunter', 'hypno', 'azumarill')
+686
+('haunter', 'hypno', 'probopass')
+769
+('haunter', 'mantine', 'altaria')
+753
+('haunter', 'mantine', 'azumarill')
+719
+('haunter', 'mantine', 'probopass')
+756
+('haunter', 'altaria', 'azumarill')
+654
